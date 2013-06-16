@@ -127,7 +127,8 @@ main = hakyllWith config $ do
     where
     pages =
         [ 
-          "about.md"
+         "about.md"
+         ,"contact.md"
         ]
 
 
@@ -169,7 +170,7 @@ feedCtx = mconcat
 --------------------------------------------------------------------------------
 config :: Configuration
 config = defaultConfiguration
-    { deployCommand = "rsync -avz --delete --checksum _site/* jayeshkg@webhome.cc.iitk.ac.in:/www/jayeshkg/www/science-coffehouse"
+    { deployCommand = "rsync -avz --delete --checksum _site/* jayeshkg@webhome.cc.iitk.ac.in:/www/jayeshkg/www/coffeehouse"
     }
 
 
@@ -179,7 +180,7 @@ feedConfiguration title = FeedConfiguration
     , feedDescription = "Talks"
     , feedAuthorName  = "Science Coffeehouse"
     , feedAuthorEmail = "seek.iitk@gmail.com"
-    , feedRoot        = "http://home.iitk.ac.in/~nitica/sciencecoffeehouse"
+    , feedRoot        = "http://home.iitk.ac.in/~jayeshkg/coffeehouse"
     }
 
 pandocOptions :: Pandoc.WriterOptions
