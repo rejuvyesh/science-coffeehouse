@@ -1,0 +1,239 @@
+h1, h2, h3 {
+   margin: 0px 0px 18px 0px;
+   padding: 14px 0px 0px 0px;
+   
+}
+
+p, ul {
+   margin-left: 1em;
+   margin-right: 1em;
+}
+
+img {
+   margin: 12px 0px 12px auto;
+   border: none;
+   max-width: 100%;
+   height: auto;
+   width: auto; 
+}
+
+em {
+   color: #af5f5f;
+   font-style: italic; }
+
+strong {
+   color: #085272;
+   font-weight:bolder;
+}
+
+ul {
+   padding-left: 18px;
+}
+
+div#footer {
+   margin: 60px 0px 36px 0px;
+}
+
+html {
+   background-color: #fffffd;
+   font-size: 16px;
+   font-family: 'Georgia', 'Proxima Nova', sans-serif;
+   line-height: 1.4;
+}
+
+body {
+   color: #333;
+   margin: 0px 0px 18px 0px;
+}
+
+a, a:link, a:visited {
+   color: #57ad68;
+   
+	 -webkit-transition: color .4s linear;
+	 -moz-transition: color .4s linear;
+	 -o-transition: color .4s linear;
+	 -ms-transition: color .4s linear;
+	 transition: color .4s linear;
+   text-decoration: none;
+   border-bottom: 1px solid #555;
+}
+
+
+a:hover {
+   color: #57dd66;
+   background: #E4F2E6;
+}
+
+a img {
+   margin-bottom: 0px;
+}
+
+pre {
+   font-size: 14px;
+   margin-left: 18px;
+   overflow: auto;
+}
+
+h1, h2, h3 {
+   font-weight: bold;
+   color:#333
+}
+
+
+h1 {
+   font-size: 32px;
+}
+
+h2 {
+   font-size: 22px;
+}
+
+
+h3 {
+   font-size: 18px;
+}
+
+h1 a:link, h1 a:visited, h1 a:active {
+   color: #333;
+   background: none;
+   border:none;
+}
+
+h2 a:link, h2 a:visited, h2 a:active {
+   color: #555;
+   background: none;
+}
+h3 a:link, h3 a:visited, h3 a:active {
+   color: #444;
+   background: none;
+   border:none;
+}
+
+
+ul {
+    list-style:square;
+}
+
+blockquote {
+   border-left: 10px solid #92C99D;
+   border-right: 10px solid #d6e1f3;
+   margin-left: 1em;
+   margin-right: 1em;
+   padding-left: 0.3em;
+   padding-right: 0.3em;
+   
+}
+
+.soft, .caption {
+   font-style: italic;
+   color: #555;
+}
+
+.status {
+   color: #555;
+   background: #d6e1f3;
+}
+
+
+
+/* Better footnotes */
+sub, sup {
+   line-height: 0.2em;
+   margin-left: 0.2em;
+   font-size:small;
+}
+
+
+code{
+   background-color:rgb(250,250,250);
+   border:1px solid rgb(200,200,200);
+   padding-left:4px;
+   padding-right:4px;
+}
+
+pre code{
+   display:block;
+   padding:8px;
+   margin-bottom:2em;
+}
+
+
+div.figure {
+   text-align: center;
+}
+
+div.figure p {
+   margin-top: 6px;
+}
+
+div.footnotes {
+   border-top: 5px solid #57ad68;
+   color: #555;
+   
+}
+
+div.footnotes hr {
+   display: none;
+}
+
+.align_right {
+   float:right;
+   text-align:right;
+}
+
+.align_left {
+   text-align: left;
+}
+
+#footnotediv div{
+   opacity:1;
+   background-color:#fff;
+   padding:0px 12px;
+   max-width:600px;
+   border:1px solid #57ad68;
+}
+
+div#footer {
+   font-size: 12px;
+}
+
+
+
+/*************************************/
+
+/* This gets Google to fall into place */
+.share {
+	 font-size: 1px;
+   float: right;
+}
+
+/* This gets Facebook to fall into place */
+.share iframe {
+	 vertical-align: middle;
+}
+
+/* Set an optional width for your button wrappers */
+.share span {
+	 display: inline-block;
+	 width: 110px;
+}
+
+/* /\* Adjust the widths individually if you like *\/ */
+/* .share .google { */
+/* 	 width: 75px; */
+/* } */
+
+
+
+/*******************************************************************************
+ * Disqus                                                                    
+******************************************************************************/
+
+/* Reset list image for disqus */
+div#disqus_thread ul {
+   list-style-image: none;
+}
+
+div#dsq-subscribe em {
+   text-decoration: none;
+}
