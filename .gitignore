@@ -1,0 +1,8 @@
+*.hi
+*.o
+_cache/
+_site/
+.hsenv/
+/sitemap.xml
+/TODO
+/stats/
