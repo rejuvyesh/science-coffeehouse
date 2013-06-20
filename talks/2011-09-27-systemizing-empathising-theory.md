@@ -3,7 +3,7 @@ title: Systemising Empathising Theory
 description: something
 author: Tamaghna Hazare
 date: 27 September, 2011
-tags: psycholgy
+tags: psychology
 ---
 
 Empathising quality-emotion and thought 
