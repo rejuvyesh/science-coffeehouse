@@ -1,11 +1,13 @@
 html {
    margin: 0px;
    padding: 0px;
+   vertical-align: baseline;
 }
 
 body {
    margin: 0px;
    padding: 0px 0px 0px 0px;
+   vertical-align: baseline;
 }
 
 div#navigation {
@@ -20,12 +22,8 @@ div#navigation a {
 }
 
 div#navigation a:hover {
-   /* background: #141414; */
-   /* text-shadow: 0px 2px 3px #ffffff; */
-   /* border-radius:8px; */
-   /* box-shadow: 0px 3px 5px #000; */
-   /* -moz-box-shadow: 0px 3px 5px #000; */
-   /* -webkit-box-shadow: 0px 3px 5px #000; */
+   background: none repeat scroll 0 0 #FFFFFF;
+   color: #222222;
 }
 
 
@@ -36,6 +34,7 @@ div#navigation a:hover {
 div#content {
    margin: 1em;
    text-align: justify;
+   padding: 6rem 6rem 3.4rem;
 }
 
 .name {
@@ -50,21 +49,6 @@ div#content {
 }
 
 @media all and (min-width: 833px) {
-   /* div#content { */
-   /*    margin: 0px 0px 0px 156px; */
-   /*    padding: 0px 30px 0px 25px;  */
-   /*    width: 620px; */
-   /*    text-align:justify; */
-   /* } */
-   html {
-      margin: 0;
-      padding: 0;
-   }
-   body {
-      margin: 0;
-      padding: 0;
-   }
-
    div#site-header{
       background-color: #111111;
       float: left;
@@ -77,13 +61,6 @@ div#content {
       width: 240px;
    }
    div#navigation {
-      /* background: none; */
-      /* float: left; */
-      /* left: 0px; */
-      /* margin: 0px 0px 0px 18px; */
-      /* position: fixed; */
-      /* top: 0px; */
-      /* width: 102px; */
       border-top: 1px solid #333333;
       clear: both;
       font-family: 'proxima-nova',sans-serif;
@@ -109,10 +86,6 @@ div#content {
    }
 
    div#navigation a {
-      
-           /* margin: 6px 0px 6px 0px; */
-      /* font-size: 1.25em; */
-     
       background: none repeat scroll 0 0 transparent;
       color: #666666;
       display: block;
@@ -128,7 +101,7 @@ div#content {
 
    div#content {
       background: #ffffff;
-      margin: 0px 0px 0px 200px;
+      margin: 0px 0px 0px 240px;
       text-align: justify;
       padding: 24px;
       padding: 2.4rem;
