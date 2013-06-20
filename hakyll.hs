@@ -128,7 +128,8 @@ main = hakyllWith config $ do
     pages =
         [ 
          "about.md"
-         ,"contact.md"
+        ,"contact.md"
+        ,"members.md"
         ]
 
 
