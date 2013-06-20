@@ -123,12 +123,6 @@ ul {
 }
 
 blockquote {
-   /* border-left: 10px solid #92C99D; */
-   /* border-right: 10px solid #d6e1f3; */
-   /* margin-left: 1em; */
-   /* margin-right: 1em; */
-   /* padding-left: 0.3em; */
-   /* padding-right: 0.3em; */
    color: #888888;
    margin: 4rem;
    
@@ -145,6 +139,7 @@ blockquote:before {
 }
 
 .soft, .caption {
+   font-size: 1.45rem;
    font-style: italic;
    color: #555;
 }
@@ -180,7 +175,7 @@ div.figure p {
 }
 
 div.footnotes {
-   border-top: 5px solid #666666;
+   border-top: 1px solid #666666;
    color: #555;
    
 }
@@ -210,6 +205,11 @@ div#footer {
    font-size: 12px;
 }
 
+.logo {
+   height: 120px;
+   margin-bottom: 0;
+   margin-top: 0.4rem;
+}
 
 
 /*************************************/
