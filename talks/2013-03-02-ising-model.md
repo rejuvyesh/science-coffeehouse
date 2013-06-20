@@ -5,10 +5,9 @@ author: Nitica
 date: 2 march, 2013
 tags: physics, neuro
 ---
--------Nitica---------
-Ising model and spin glass system.
 
 Attractor Networks:
+
 Attractor neural networks
 1. McCulloch Pitts discrete model 1940
 2. Hebbian learning 1960s
@@ -29,12 +28,10 @@ Jij - the input taken by the i'th neuron given by the j'th one. Information is s
 Number of links goes as ~N Choose 2
 
 1. First model 1940:
-h_i^{t+1} = \sum_j J_{ij} \sigma_j^t
-and \sigma_i^{t+1} = 
+$h_i^{t+1} = \sum_j J_{ij} \sigma_j^t$
+and $\sigma_i^{t+1} = h_i - psp$ (post synaptic potential) 
 
-h_i - psp (post synaptic potential) 
-
-\sigma_j^t = 1 if the jth neuron fires at time t, 0 otherwise.
+$\sigma_j^t = 1$ if the jth neuron fires at time t, 0 otherwise.
 Model- assumed to be synchronous (they all update at the same time)
 Discrete time model
 
@@ -42,7 +39,7 @@ Weights- J_{ij}-  depends on how "good" the connection between the neurons is.
 
 threshold- T_i: If the above, h_i is greater than T_i, then in the next step the i'th neuron will fire.
 Or
-\sigma_j^t = \Theta(h_i - T_i)
+$\sigma_j^t = \Theta(h_i - T_i)$
 
 (Too simplistic)
 
