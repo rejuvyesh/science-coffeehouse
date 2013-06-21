@@ -3,7 +3,7 @@ title: Astroseismology
 description: something
 author: Tamaghna Hazare
 date: 28 August, 2011
-tags: physics
+tags: Physics
 ---
 
 Pulsations in stars- Surface oscillations give information aout interior of the star- gradient of speed of sound, density gradients..

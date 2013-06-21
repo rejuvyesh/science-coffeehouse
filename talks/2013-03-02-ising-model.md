@@ -3,7 +3,7 @@ title: Ising Model and Spin Glass System
 description: Neural Something
 author: Nitica
 date: 2 march, 2013
-tags: physics, neuro
+tags: Physics, Neuro
 ---
 
 Attractor Networks:

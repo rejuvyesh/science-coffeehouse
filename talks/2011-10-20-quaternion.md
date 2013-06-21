@@ -3,7 +3,7 @@ title: Quaternions
 description: something
 author: Abhishek Gupta
 date: 20 October, 2011
-tags: math
+tags: Math
 ---
 
 Qa = a + A1i + A2j + A3k

@@ -3,7 +3,7 @@ title: Church-Turing Problem
 description: something something
 author: Nitica
 date: 3 February, 2013
-tags: physics
+tags: Physics
 ---
 
 how problems in different subjects are essentially the same problems.

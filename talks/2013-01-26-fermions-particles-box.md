@@ -3,7 +3,7 @@ title: Fermions and Prticles in a Box
 description: something
 author: Tamaghna Hazare
 date: 26 January, 2013
-tags: physics
+tags: Physics
 ---
 
 

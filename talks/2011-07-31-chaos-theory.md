@@ -3,7 +3,7 @@ title: Chaos Theory
 description: something
 author: Nitica
 date: 31 July, 2011
-tags: biology
+tags: Biology
 ---
 
 Sthitadhi - exponential divergence of infinitesimally close trajectories..

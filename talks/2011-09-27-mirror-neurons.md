@@ -3,7 +3,7 @@ title: Mirror Neurons
 description: something
 author: Diksha Gupta
 date: 27 September, 2011
-tags: biology
+tags: Biology
 ---
 
 VS Ramachandra

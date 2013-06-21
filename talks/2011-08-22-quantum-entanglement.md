@@ -3,7 +3,7 @@ title: Quantum Entanglement
 description: something
 author: Abhinav, Ish
 date: 22 August, 2011
-tags: physics
+tags: Physics
 ---
 
 2 boxes, gas in it. Partition in between.Entropy = S in each. 

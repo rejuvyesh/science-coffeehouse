@@ -3,7 +3,7 @@ title: Implant Hair on a Ball
 description: something
 author: Soumyajit
 date: 26 January, 2013
-tags: math
+tags: Math
 ---
 
 Try combing it so as to flatten every strand.

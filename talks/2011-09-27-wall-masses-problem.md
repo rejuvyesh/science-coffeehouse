@@ -3,7 +3,7 @@ title: Wall and Masses Problem
 description: something
 author: Anurag Sahay
 date: 27 September, 2011
-tags: math
+tags: Math
 ---
 
 wall and two masses- m and M. one body hits the one closer to the wall. Eventually they move to the right away from the wall after some number of collisions P. (depends on m/M).

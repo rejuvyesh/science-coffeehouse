@@ -3,7 +3,7 @@ title: Nucleotide Secondary Structures
 description: something
 author: Tanmay
 date: 31 July, 2011
-tags: biology
+tags: Biology
 ---
 
 wonders how to begin :P

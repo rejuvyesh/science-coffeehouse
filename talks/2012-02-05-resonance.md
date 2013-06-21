@@ -3,7 +3,7 @@ title: Resonance
 description: something
 author: Sayan
 date: 5 February, 2012
-tags: chemistry
+tags: Chemistry
 ---
 
 Huckel number- 4n + 2 -aromatic. (Filled bonding orbitals)

@@ -3,7 +3,7 @@ title: Superluminal Velocities
 description: something
 author: Sarthak Chandra
 date: 30 October, 2011
-tags: physics
+tags: Physics
 ---
 
 Non examples- two particles moving head on, rotating observer, light spot on moon

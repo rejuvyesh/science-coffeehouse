@@ -3,7 +3,7 @@ title: Gamma Ray Bursts
 description: something
 author: Abhishek Gupta
 date: 20 October, 2011
-tags: physics
+tags: Physics
 ---
 
 Powerful bursts- long and short periods..

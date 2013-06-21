@@ -3,7 +3,7 @@ title: Conway's Game of Life
 description: something
 author: Kevin
 date: 24 February, 2013
-tags: biology
+tags: Biology
 ---
 
 zero player game. one gives inital coditions and game proceeds. 2d grid of cells. dead black square alive white square. Generations (iterations)

@@ -3,7 +3,7 @@ title: Optics and Art
 description: something
 author: Sayak
 date: 22 August, 2011
-tags: physics
+tags: Physics
 ---
 
 1. Image copying, parabolic mirrors(which give spherical aberration :P): Mona Lisa- perspective difference between left and right..

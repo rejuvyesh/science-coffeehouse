@@ -3,7 +3,7 @@ title: Bertmann's Socks
 description: something
 author: Abhinav 
 date: 28 August, 2011
-tags: physics
+tags: Physics
 ---
 
 Sock Factory.

@@ -3,7 +3,7 @@ title: Angular Momentum of Light
 description: something
 author: Surajit Mondal
 date: 5 February, 2012
-tags: physics
+tags: Physics
 ---
 
 Experiments show that circular polarised plane waves have angular momentum, Mondal claims that these experiments are wrong, in spite of the theory being correct..
@@ -13,11 +13,11 @@ J = 1/4*pi*c Integral (d3r)rx(ExB)
 Formula shows that direction of angular momentum is perpendicular to the direction of propagation for a wave.
 
 Helmholtz theorem:
-E = -grad (f) + curl (F)
-f = 1/4*pi INtegral(div(E) dV/|r-r'|
-F = 1/4*pi Integral(curl(E) dV/|r-r'|
+$E = -grad (f) + curl (F)$
+$f = \frac{1}{4}*pi Integral(div(E) dV/|r-r'|$
+$F = 1/4*pi Integral(curl(E) dV/|r-r'|$
 
-Actually, E = -grad(V) + dA/dt
+Actually, $E = -grad(V) + dA/dt$
 --Heavy vector identities and manipulation.--
 J = Jo + Js.
 

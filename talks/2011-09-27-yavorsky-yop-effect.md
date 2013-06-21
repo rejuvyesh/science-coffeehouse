@@ -3,7 +3,7 @@ title: Yavorsky effect and YOP effect
 description: something
 author: Surajit Mondal
 date: 27 September, 2011
-tags: physics
+tags: Physics
 ---
 
 CRE ages-

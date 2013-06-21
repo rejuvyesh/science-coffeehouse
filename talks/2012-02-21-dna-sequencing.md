@@ -3,7 +3,7 @@ title: Sequencing DNA Nucleotides
 description: something
 author: Nitica
 date: 21 February, 2012
-tags: biology
+tags: Biology
 ---
 
 repeat of IISER-T's Mimamsa talk:

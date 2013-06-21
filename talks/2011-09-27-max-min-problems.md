@@ -3,7 +3,7 @@ title: Maximization/Minimization Problems
 description: something
 author: Sayak Dasgupta
 date: 27 September, 2011
-tags: math
+tags: Math
 ---
 
 Faganos problem-

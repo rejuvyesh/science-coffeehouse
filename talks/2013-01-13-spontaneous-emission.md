@@ -3,7 +3,7 @@ title: Spontaneous Emission
 description: something
 author: Abhinav
 date: 13 January, 2013
-tags: physics
+tags: Physics
 ---
 
 ## Basics

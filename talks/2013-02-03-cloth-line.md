@@ -3,7 +3,7 @@ title: Cloth Line Problem
 description: cloth something
 author: Aditya Degala
 date: 3 February, 2013
-tags: physics
+tags: Physics
 ---
 
 Pain- If one holds a 20 kg weight on 100 cm2 area, say the foot,  one feels

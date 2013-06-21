@@ -3,7 +3,7 @@ title: Occom's Razor
 description: something
 author: Jayesh Kumar Gupta 
 date: 28 August, 2011
-tags: math
+tags: Math
 ---
 
 Definition: When there are competing hypotheses equal in all respects to explain something, the one that makes the fewest assumptions is the easiest, and the most basic one.

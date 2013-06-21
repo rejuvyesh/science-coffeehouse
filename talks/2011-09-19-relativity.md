@@ -3,7 +3,7 @@ title: Relativity
 description: something
 author: Ish Dhand
 date: 19 September, 2011
-tags: physics
+tags: Physics
 ---
 
 ## Introduction:

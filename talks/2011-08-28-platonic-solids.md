@@ -3,7 +3,7 @@ title: Platonic Solids - Why only five?
 description: something
 author: Nitica
 date: 28 August, 2011
-tags: math
+tags: Math
 ---
 
 V = 4, 6, 8, 10, 12

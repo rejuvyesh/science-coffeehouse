@@ -3,7 +3,7 @@ title: Mozart Effect
 description: something
 author: Diksha Gupta
 date: 28 August, 2011
-tags: biology
+tags: Biology
 ---
 
 we don't know what part of the brain detects timbre of sound..

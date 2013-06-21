@@ -3,7 +3,7 @@ title: Black Holes and Information
 description: something
 author: Nitica
 date: 18 March, 2012
-tags: physics
+tags: Physics
 ---
 
 Entropy = Infomation for the time being, counted as bits.

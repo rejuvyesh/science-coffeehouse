@@ -3,7 +3,7 @@ title: Difference between loosely bound spring and a tight one
 description: something
 author: Tamaghna Hazare
 date: 28 August, 2011
-tags: physics
+tags: Physics
 ---
 
 Stretch a spring and leave it, a compression wave moves down the spring, gets reflected with a phase change of pi.

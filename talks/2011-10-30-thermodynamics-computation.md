@@ -3,7 +3,7 @@ title: Thermodynamics of Computation
 description: something
 author: Ish Dhand
 date: 30 October, 2011
-tags: physics
+tags: Physics
 ---
 
 Information is physical. not isolated from laws of physics.

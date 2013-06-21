@@ -3,7 +3,7 @@ title: Resistance Problem
 description: something
 author: Akash Goel
 date: 20 October, 2011
-tags: physics
+tags: Physics
 ---
 
 problem of forming a resistance of 1.41 ohm given only 20 1 ohm resistors. (sqrt2 requires infinite resistors)

@@ -3,7 +3,7 @@ title: Defining Algebra
 description: something
 author: Anurag Sahay
 date: 13 January, 2013
-tags: math
+tags: Math
 ---
 
 ## Rings

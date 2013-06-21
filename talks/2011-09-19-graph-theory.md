@@ -3,7 +3,7 @@ title: Graph Theory
 description: something
 author: Soumyajit
 date: 19 September, 2011
-tags: math
+tags: Math
 ---
 
 a)Horse 

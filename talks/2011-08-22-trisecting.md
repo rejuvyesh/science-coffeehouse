@@ -3,7 +3,7 @@ title: Trisecting any General Angle
 description: something
 author: Soumyajit
 date: 22 August, 2011
-tags: math
+tags: Math
 ---
 
 Can't trisect any general angles, can't do many things with Euclidian geometry.. (cube root of 2)

@@ -3,7 +3,7 @@ title: Viability and efficiency of translating wind turbines.
 description: something
 author: Harish
 date: 9 February, 2013
-tags: physics
+tags: Physics
 ---
 
 Wind farms- are established in places where wind is consistent, otherwise it is not viable.

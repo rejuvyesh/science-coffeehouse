@@ -3,7 +3,7 @@ title: Population Dynamics of Tribollium beetles
 description: something
 author: Sayak
 date: 31 July, 2011
-tags: biology
+tags: Biology
 ---
 
 Cannibalistic behaviour in beetles when they dont get food.
