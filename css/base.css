@@ -265,7 +265,7 @@ table tbody tr:last-child td:last-child {
    to advertise that they are sortable.
    http://tablesorter.com/docs/#Configuration */
 th.header {
-   background-image: url(/images/bg.gif);
+   background-image: url(../images/bg.gif);
    cursor: pointer;
    font-weight: bold;
    background-repeat: no-repeat;
@@ -275,11 +275,11 @@ th.header {
    margin-left: -1px;
 }
 th.headerSortUp {
-   background-image: url(/static/img/small_asc.gif);
+   background-image: url(../images/small_asc.gif);
    background-color: #79BEDB;
 }
 th.headerSortDown {
-   background-image: url(/static/img/small_desc.gif);
+   background-image: url(../images/small_desc.gif);
    background-color: #79BEDB;
 }
 
