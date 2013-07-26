@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!-- Metadata. -->
     <meta charset="utf-8"/>
+    <meta name="generator" content="hakyll" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width" />
-
+    $if(author)$
+    <meta name="author" content="$author$" />
+    $endif$
+    
+    <meta name="keywords" content="Science CoffeeHouse"/>
+    $if(description)$
+    <meta name="description" content="$description$" />
+    $endif$
     <title>$title$</title>
 
     <!-- Stylesheets. -->
@@ -37,10 +46,9 @@
 
     <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico"/>
     
-    <!-- Metadata. -->
-    <meta name="keywords" content="Jayesh Kumar Gupta, blog, personal, homepage, academics, research, resume"/>
-    <meta name="description" content="Personal home page and blog of Jayesh Kumar Gupta."/>
+    
   </head>
+  
   <body>
     <div id ="site-header">
       <h1 class="logo"><img src="/images/header_logo_120.png" alt:"Logo: Greek Psi like cup with curly vapors">
@@ -70,5 +78,16 @@
       </div>
     </div>
 
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42751711-1', 'iitk.ac.in');
+      ga('send', 'pageview');
+
+    </script>
   </body>
 </html>
