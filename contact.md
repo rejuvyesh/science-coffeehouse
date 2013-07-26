@@ -1,5 +1,6 @@
 ---
 title: Contact
+author: Science Coffeehouse
 description: Contact information
 ---
 

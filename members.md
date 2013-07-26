@@ -1,5 +1,6 @@
 ---
 title: Members
+author: Science CoffeeHouse
 description: Member List
 ---
 

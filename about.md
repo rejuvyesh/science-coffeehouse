@@ -1,5 +1,6 @@
 ---
 title: About Us
+author: Science Coffeehouse
 description: About Science CoffeeHouse
 ---
 
