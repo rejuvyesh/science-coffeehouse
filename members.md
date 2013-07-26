@@ -13,7 +13,7 @@ Y12     Amrita Singh                     Biological Sciences and Bio-Engineering
 Y12     Ayush Sekhari                    Electrical Engineering
 Y12     Chirag Gupta                     Computer Sciences and Computer Engineering
 Y12     Harish Yadav                     Physics
-Y12     Harsh Kumar                      Biological Sciences and Bio-Engineering
+Y12     Harsh Kumar                      Mathematics and Scientific Computing
 Y12     Kevin Jose                       Mechanical Engineering
 Y12     Praharsh Suryadevara             Physics
 Y12     Pranav Vyas                      Mechanical Engineering
