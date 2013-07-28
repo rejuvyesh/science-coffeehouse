@@ -8,7 +8,7 @@ description: Member List
 
 Year    Name                             Department
 ----    -------------------              -------------------
-Y12     Aditya Degala                    Physics
+Y12     Aditya Degala                    Mathematics and Scientific Computing
 Y12     Amrita Singh                     Biological Sciences and Bio-Engineering
 Y12     Ayush Sekhari                    Electrical Engineering
 Y12     Chirag Gupta                     Computer Sciences and Computer Engineering
@@ -31,10 +31,23 @@ Y10     Abhinav Deshpande                Physics
 Y10     Nitica Sakharwade                Physics
 Y10     Sayak Dasgupta                   Physics
 Y10     Sashank Pisupati                 Biological Sciences and Bio-Engineering
+Y10     Surajit Mondal                   Physics
+Y09     Abhishek Gupta                   Electrical Engineering
+Y09     Kavya Reddy                      Mathematics and Scientific Computing
+Y09     Kumar Ritikesh                   Electrical Engineering
+Y09     Prashant Kumar                   Physics
+Y09     Sayan Basak                      Physics
 Y09     Shreya P. Kumar                  Physics
 Y09     Soumyajit Bose                   Physics
+Y09     Sourav Raha                      Physics
+Y09     Swapnika Reddy                   Economics
 Y09     Tamaghna Hazare                  Physics
 Y08     Ish Dhand                        Computer Sciences and Computer Engineering
+Y08     Pranjal Nayak                    Mechanical Engineering
+Y08     Tanmay K. Mudholkar              Physics
 -----------------------------------------------------------------------------------
+
+
+
 
 
