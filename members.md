@@ -30,7 +30,7 @@ Y11     Sayan                            Chemistry
 Y10     Abhinav Deshpande                Physics
 Y10     Nitica Sakharwade                Physics
 Y10     Sayak Dasgupta                   Physics
-Y10     Shashank Pisupati                Biological Sciences and Bio-Engineering
+Y10     Sashank Pisupati                 Biological Sciences and Bio-Engineering
 Y09     Shreya P. Kumar                  Physics
 Y09     Soumyajit Bose                   Physics
 Y09     Tamaghna Hazare                  Physics
